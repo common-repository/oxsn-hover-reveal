@@ -1,0 +1,13 @@
+.oxsn_hover_reveal_parent {
+	display: inline-block;
+	position: relative;
+}
+
+.oxsn_hover_reveal_child {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
